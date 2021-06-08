@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+"float like A butterfly sting like a bee"
 Use the left arrow to go back!
